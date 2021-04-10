@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>The Conference Management Tool - SLIIT</title>
+    </head>
+    <body>
+        <Grid>
+            <Navbar bg="dark" variant="dark">
+                <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+                <Nav classname="mr-auto">
+                    <Nav.Link href="#home">Home</Nav.Link>
+                    <Nav.Link href="#features">Features</Nav.Link>
+                    <Nav.Link href="#pricing">Pricing</Nav.Link>
+                </Nav>
+            </Navbar>
+        </Grid>
+        <div id="app"></div>
+    </body>
+    <script src="400d348cf575c4d63a61c06670135790"></script>
+</html>
